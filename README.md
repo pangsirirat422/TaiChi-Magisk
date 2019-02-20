@@ -1,10 +1,10 @@
 # TaiChi·Magisk
 
-[中文版](https://github.com/tiann/EXposed/wiki/taichi-magisk-zh)
+[中文版](https://github.com/taichi-framework/TaiChi/wiki/taichi-magisk-zh)
 
 ## What is TaiChi·Magisk？
 
-**TaiChi·Magisk is the enhanced version of [TaiChi](https://github.com/tiann/Tai-Chi)**。
+**TaiChi·Magisk is the enhanced version of [TaiChi](https://github.com/taichi-framework/TaiChi/)**。
 
 > TaiChi is a framework to use Xposed module with or without Root/Unlock bootloader, it support Android 5.0 ~ 9.0.
 
@@ -33,7 +33,7 @@ In simple terms, follow the steps:
 
 Here are more informations in detail:
 
-[**Notice**](https://github.com/tiann/Tai-Chi/wiki/taichi-magisk-notice-en)
+[**Notice**](https://github.com/taichi-framework/TaiChi/wiki/taichi-magisk-notice-en)
 
 [**Usage**](https://github.com/tiann/EXposed/wiki/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8)
 
