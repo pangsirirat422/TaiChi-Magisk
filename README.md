@@ -1,5 +1,7 @@
 # TaiChi·Magisk
 
+**This repo has migrated to [Official Magisk Repo](https://github.com/Magisk-Modules-Repo/taichi)!!**
+
 [中文版](https://github.com/taichi-framework/TaiChi/wiki/taichi-magisk-zh)
 
 ## What is TaiChi·Magisk？
