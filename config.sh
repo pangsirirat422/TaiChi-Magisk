@@ -106,11 +106,6 @@ check_architecture() {
   fi
 }
 
-fail() {
-  ui_print $1
-  exit 1
-}
-
 replace_and_backup() {
   FROM_PATH=$1
   TARGET_NAME=libprocessgroup.so
@@ -124,11 +119,11 @@ replace_and_backup() {
     if [ -f $REPLACED_PATH ]; then
       ui_print "- Found $TARGET_NAME."
 	else
-      fail "- $TARGET_NAME not found."
+      abort "- $TARGET_NAME not found."
     fi
   fi
   
-  cp $REPLACED_PATH "$MODPATH/system/$FROM_PATH/$BAK_NAME" || fail "- Copy $REPLACED_PATH failed."
+  cp $REPLACED_PATH "$MODPATH/system/$FROM_PATH/$BAK_NAME" || abort "- Copy $REPLACED_PATH failed."
   return 0
 }
 
