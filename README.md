@@ -42,3 +42,7 @@ Here are more informations in detail:
 [Known Issues](https://github.com/taichi-framework/TaiChi/wiki/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%E5%92%8C%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%98)
 
 **Please read every instructions carefully**.
+
+## Contact
+
+[Telegram Group](https://t.me/vxp_group)
