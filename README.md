@@ -35,7 +35,7 @@ Here are more informations in detail:
 
 [**Notice**](https://github.com/taichi-framework/TaiChi/wiki/taichi-magisk-notice-en)
 
-[**Usage**](https://github.com/taichi-framework/TaiChi/wiki/taichi-magisk-how-to-use-en)
+[**Usage**](https://github.com/taichi-framework/TaiChi/wiki/how-to-use-taichi-magisk)
 
 [**FAQ**](https://github.com/taichi-framework/TaiChi/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 
